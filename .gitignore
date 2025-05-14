@@ -10,3 +10,7 @@
 __pycache__
 temp*
 deprecated*
+
+# Other
+*.egg-info/
+build/
